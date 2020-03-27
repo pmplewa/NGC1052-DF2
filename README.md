@@ -4,5 +4,4 @@ The code in this [notebook](https://github.com/pmplewa/NGC1052-DF2/blob/master/m
 
 [![](preview.png)](https://github.com/pmplewa/NGC1052-DF2/blob/master/main.ipynb)
 
-Additional examples:
-* [example_ultranest.ipynb](https://github.com/pmplewa/NGC1052-DF2/blob/master/example_ultranest.ipynb)
+Additional examples for nested sampling: [example_nested.ipynb](https://github.com/pmplewa/NGC1052-DF2/blob/master/example_nested.ipynb)
